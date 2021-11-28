@@ -22,5 +22,6 @@ Nota: La temperatura normal promedio de un ser humano = 37
 
 Suponiendo que ese día el clima estuvo templado y el ambiente hubo una temperatura constante de 18° C. ¿Cuál fue la hora del asesinato?
 
+   ![Captura de pantalla 2021-11-27 213620](https://user-images.githubusercontent.com/90169874/143728551-d5c28289-913a-4cc0-a6d4-f59b1875cddb.jpg)
+   ![image](https://user-images.githubusercontent.com/90169874/143729385-38b41e35-604e-4f2f-b930-07a7eb503a99.png)
 
-![Captura de pantalla 2021-11-27 213620](https://user-images.githubusercontent.com/90169874/143728152-cd85c2c4-31f9-45de-a0a6-8db02a2f63b7.jpg)
