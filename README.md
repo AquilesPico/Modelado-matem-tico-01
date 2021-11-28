@@ -1,1 +1,1 @@
-# Modelado-matem-tico-01
+# Modelado-matemático-01
